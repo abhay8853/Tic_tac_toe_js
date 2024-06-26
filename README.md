@@ -1,5 +1,5 @@
 
-![TIC-TAC-TOE](Screenshot.png)
+![TIC-TAC-TOE](https://github.com/abhay8853/tic_tac_toe_js/blob/267ddf77f72376db7e4f9f3dde5b4070ce8cb8ad/Screenshot%20.png)
 # Tic-Tac-Toe Game
 
 A simple Tic-Tac-Toe game implemented using JavaScript, HTML, and CSS.
