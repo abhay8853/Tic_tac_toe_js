@@ -1,16 +1,9 @@
 
-![TIC-TAC-TOE](Screenshot 2024-06-26 104601.png)
+![TIC-TAC-TOE](https://github.com/abhay8853/tic_tac_toe_js/blob/34874246545172a2d3ef1a376daf80ec897d770f/Screenshot.png)
 # Tic-Tac-Toe Game
 
 A simple Tic-Tac-Toe game implemented using JavaScript, HTML, and CSS.
 
-## Table of Contents
-
-- [Tic-Tac-Toe Game](#tic-tac-toe-game)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Features](#features)
-  - [Installation](#installation)
 
 ## Introduction
 
@@ -21,8 +14,8 @@ This project is a classic Tic-Tac-Toe game where two players take turns to mark 
 - Two-player game
 - Turn-based play
 - Win detection
-- Reset and New Game functionality
-- Simple and clean UI
+- Reset and New Game 
+
 
 ## Installation
 
